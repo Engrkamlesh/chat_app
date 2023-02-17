@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976436841553",
+    "project_id": "chat-app-bf410",
+    "storage_bucket": "chat-app-bf410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976436841553:android:cae245d1b4756d9da6bc70",
+        "android_client_info": {
+          "package_name": "com.example.chai_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976436841553-g3n9tqe13h4punqj12q58q563pgdt0j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUiZKgG2dyJsuR0LUJ6xEfwl_dwD6B0ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976436841553-g3n9tqe13h4punqj12q58q563pgdt0j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
